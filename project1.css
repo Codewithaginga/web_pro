@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1, h3{
+    color: red;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+p{
+    margin-left: 20px;
+}
+
+.our {
+    color: red;
+    text-align: center;
+    padding: 15px;
+    padding-top: 30px;
+}
+
+.routes{
+    background-color: grey;
+    width: 230px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+
+}
+
+.routes ul{
+    padding: 10px;
+}
+
+.routes h3{
+    color: antiquewhite;
+}
+.routes1{
+    background-color: grey;
+    width: 230px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+
+}
+#rout{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+}
+
+.routes1 ul{
+    padding: 20px;
+}
+
+.routes1 h3{
+    color: antiquewhite;
+}
+
+.book{
+    background-color: red;
+    width: 200px;
+    color: white;
+    margin-top: 30px;
+    border-radius: 6px;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 17px;
+    display: flex;
+}
+
+.form{
+
+    display: flex;
+    flex-wrap: wrap;
+
+    padding-top: 30px;
+    margin-left: 30px;
+    padding-bottom: 30px;
+}
+
+.form input{
+    padding: 10px;
+}
+
+.table1{
+
+    margin-left: 20px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.table1 tr, th, td {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.poss{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.img1{
+    margin-top: 30px;
+    
+
+}
+
+.img1 h2{
+
+    text-align: center;
+    margin-top: 30px;
+    color: brown;
+}
+.img1 img{
+    margin-top: 60px;
+    margin-left: 20px;
+    width: 250px;
+    height: 200px;
+    border-radius: 6px;
+    
+}
+
+.img1 p{
+    padding-bottom: 20px;
+}
